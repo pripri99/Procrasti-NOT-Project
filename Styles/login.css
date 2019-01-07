@@ -1,0 +1,12 @@
+body{
+	background-image: url(https://www.malawiproject.org/wp-content/uploads/2018/03/blender-2016121.jpg);
+}
+
+h1{
+	color:grey;
+	text-align:center;
+}
+p{
+	font-family:verdana;
+	font-size:20px;
+}
